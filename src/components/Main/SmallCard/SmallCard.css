@@ -1,0 +1,42 @@
+.small-card {
+  width: 49%;
+  min-width: 24rem;
+  height: 100%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  background: var(--bg-nav);
+  color: #ffffff;
+  border-radius: 10px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  /* margin: 0 1rem; */
+}
+
+.small-card h3 {
+  color: #00c88c;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  color: #00c88c;
+}
+.small-card h3,
+.small-card p {
+  padding: 0.5rem 2rem;
+}
+
+.small-card p {
+  font-size: 1.9rem;
+}
+
+@media screen and (max-width: 660px) {
+  .small-card {
+    width: 100%;
+    margin: 1rem 0;
+  }
+}
