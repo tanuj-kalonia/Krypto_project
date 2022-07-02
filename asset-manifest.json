@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Krypto_project/static/css/main.b189af00.css",
+    "main.js": "/Krypto_project/static/js/main.450f3156.js",
+    "index.html": "/Krypto_project/index.html",
+    "main.b189af00.css.map": "/Krypto_project/static/css/main.b189af00.css.map",
+    "main.450f3156.js.map": "/Krypto_project/static/js/main.450f3156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b189af00.css",
+    "static/js/main.450f3156.js"
+  ]
+}
